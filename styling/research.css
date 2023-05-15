@@ -1,30 +1,42 @@
+
+
+
 h1{
-    text-align: center;
-    padding: 20px;
+    
+    padding-left: 20%;
     color: darkslategray;
 }
 
-.whole-container{
-    display: inline-block;
 
-}
 
 section{
-    
-    padding-top: 100px;
+
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.topic-heading{
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 0;
+    padding-right: 20%;
 }
 
 .topic-writting{
-    padding: 20px;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 0;
+    padding-right: 20%;
     width: 100%;
 }
 
+
 img{
-    width: 50%;
+    width: 80%;
     padding: 20px;
 }
 .topic-img{
     
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
 }
