@@ -16,10 +16,15 @@ section{
 
 .topic-writting{
     padding: 20px;
-    width: 50%;
+    width: 100%;
 }
 
 img{
-    width: 40%;
-    padding-left: 20px;
+    width: 50%;
+    padding: 20px;
+}
+.topic-img{
+    
+    display: flex;
+    justify-content: center;
 }
